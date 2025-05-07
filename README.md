@@ -25,4 +25,4 @@ This project analyzes air quality data and predicts future air quality.
 
 ## Data Source
 
-The data is in `data/air_quality_data.csv`.
+The data is in `global_air_quality_data_10000.csv`.
