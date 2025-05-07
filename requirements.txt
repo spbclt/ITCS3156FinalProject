@@ -1,0 +1,7 @@
+pandas
+matplotlib
+scikit-learn
+jupyter
+# Add any other dependencies your notebook uses, version numbers are recommended:
+# numpy==1.21.0
+# seaborn==0.11.1
