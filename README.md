@@ -7,7 +7,7 @@ This project analyzes air quality data and predicts future air quality.
 * `Global_Air_Quality_Analysis_&_Prediction.ipynb`:  Jupyter Notebook with the code.
 * `README.md`:  This file.
 * `requirements.txt`:  List of required Python libraries.
-* `data/air_quality_data.csv`: Air quality data.
+* `global_air_quality_data_10000.csv`: Air quality data.
 
 ## How to Run
 
