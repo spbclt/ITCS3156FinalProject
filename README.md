@@ -1,15 +1,28 @@
-# ITCS3156FinalProject
+# Air Quality Analysis & Prediction
 
-# Description
-This code analyzes and predicts air pollutant concentrations using global air quality data.
-This project uses data from multiple countries to analyze relationships between air pollutants (PM2.5, PM10, NO2, SO2, CO, O3) and environmental factors (temperature, humidity, wind speed). It implements several machine learning models to predict pollutant levels. The data was pulled from kaggle.com
+This project analyzes air quality data and predicts future air quality.
 
-# Installation
-pip install -r requirements.txt
+## Contents
 
-# Dataset
-The analysis requires global_air_quality_data_10000.csv which should be placed in the project root directory.
+* `Global_Air_Quality_Analysis_&_Prediction.ipynb`:  Jupyter Notebook with the code.
+* `README.md`:  This file.
+* `requirements.txt`:  List of required Python libraries.
+* `data/air_quality_data.csv`: Air quality data.
 
-# Usage
-Run the main analysis script:
-python global_air_quality_analysis_structured.py
+## How to Run
+
+1.  Clone this repository.
+2.  Install the dependencies: `pip install -r requirements.txt`
+3.  Open the notebook: `jupyter notebook Global_Air_Quality_Analysis_&_Prediction.ipynb`
+4.  Run the notebook cells.
+
+## Dependencies
+
+* pandas
+* matplotlib
+* scikit-learn
+* Jupyter
+
+## Data Source
+
+The data is in `data/air_quality_data.csv`.
